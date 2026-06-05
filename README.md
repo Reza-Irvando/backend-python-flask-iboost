@@ -1,6 +1,6 @@
 # Projek Iboost Back-End
 
-Link projek (di dalam folder "Projek Trello New") : https://github.com/Reza-Irvando/Iboost-booster
+Link projek (di dalam folder "Projek Trello New") : https://github.com/Reza-Irvando/backend-python-flask-iboost
 
 Management-service diagram:
 
